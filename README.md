@@ -14,11 +14,21 @@ CollEdge Connect is a high-performance, aesthetically pleasing full-stack applic
 - **⚡ Fast Performance**: Powered by Vite for the frontend and Node.js for the backend.
 - **🗄️ Database Integration**: Robust data storage using MongoDB and Mongoose.
 
+.
+.
+.
+
+
 <img width="1497" height="888" alt="image" src="https://github.com/user-attachments/assets/750f1919-e5fa-44cb-8efa-85ea6101ccf4" />
 
+.
+.
+.
 
 <img width="1539" height="883" alt="image" src="https://github.com/user-attachments/assets/e53589fd-121f-4b12-a21c-fe5676f5c827" />
-
+.
+.
+.
 
 ## 🛠️ Technology Stack
 
